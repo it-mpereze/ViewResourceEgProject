@@ -28,6 +28,11 @@
     },
     "permissions": [
       "android.permission.MODIFY_AUDIO_SETTINGS"
-      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ead3a115-b30b-4d9a-ae8a-0141e70f835a"
+      }
+    }
   }
 }
